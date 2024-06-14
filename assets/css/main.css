@@ -1524,6 +1524,7 @@ input, select, textarea {
 		-ms-transition: background .2s ease-in-out, box-shadow .2s ease-in-out;
 		transition: background .2s ease-in-out, box-shadow .2s ease-in-out;
 		-webkit-appearance: none;
+		appearance: none;
 		display: block;
 		border: 0;
 		padding: 0.75em;
@@ -1674,6 +1675,7 @@ input, select, textarea {
 		-ms-transition: background-color .2s ease-in-out;
 		transition: background-color .2s ease-in-out;
 		-webkit-appearance: none;
+		appearance: none;
 		position: relative;
 		display: inline-block;
 		color: #fff !important;
